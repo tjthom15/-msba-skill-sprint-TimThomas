@@ -1,1 +1,1 @@
-https://github.com/vinta/awesome-python.git
+https://github.com/tjthom15/python-basics-exercises.git
